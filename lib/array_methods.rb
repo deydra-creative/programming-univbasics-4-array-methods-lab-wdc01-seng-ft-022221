@@ -1,5 +1,7 @@
 def using_include(array,element)
+  element = cat
 array.include?
+(element)
 end
 
 def using_sort(array)
