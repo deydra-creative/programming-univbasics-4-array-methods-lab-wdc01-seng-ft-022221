@@ -1,5 +1,5 @@
 def using_include(array,element)
-  array = "cat"
+  array = ["cat", "dog", "hamster"]
 array.include?
 (element)
 end
